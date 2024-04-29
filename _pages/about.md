@@ -14,7 +14,7 @@ Below, we will provide a detailed introduction to the basic situation within the
 
 mentor
 ======
-![mentor](images\mentor.png)
+![mentor](../images/mentor.png)
 ------
 Tsinghua Ph.D., former Alibaba DAMO Academy expert, specially-appointed associate professor at Central South University, with over 20 first-authored and corresponding-authored papers published in top-tier conferences (A and B conferences). Known as "Railway Durant," whose car was unfortunately crashed by his beloved disciple. For more detailed information, please visit the personal homepage.
 
@@ -22,15 +22,15 @@ Tsinghua Ph.D., former Alibaba DAMO Academy expert, specially-appointed associat
 team members
 ======
 1. Kai Liang
-   ![daily](./images/daily.png)
+   ![daily](../images/daily.png)
    ------
    Senior research fellow in the group, expert in patent writing, second author of NDSS, Mr. Kind-hearted, Iron Hammer on the Railway, and a skilled player in bumper cars .
 3. Jing Luo
-   ![烧烤](./images/烧烤.png)
+   ![烧烤](../images/烧烤.png)
    ------
    Senior research fellow in the group, mentored by Fei Hongxiao, scored a buzzer-beater victory in the final moments of graduation, cheered on by the entire FSE arena, Mr. Garlic-Free.
 4. Rongkai Liu
-   ![lrk](./images/lrk.png)
+   ![lrk](../images/lrk.png)
    ------
    Senior research fellow in the group, mentored by Hu Chao, expert in paper writing, deep learning reproduction, and experimental research. Due to the outstanding results, he hesitates to write articles. Warm-hearted, he assists his junior sisters in the group with relationship issues, proving that helping others is helping oneself.
 

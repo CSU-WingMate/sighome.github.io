@@ -22,15 +22,15 @@ Tsinghua Ph.D., former Alibaba DAMO Academy expert, specially-appointed associat
 team members
 ======
 1. Kai Liang
-   ![mentor](../iamges/daily.png)
+   ![mentor](../images/daily.png)
    ------
    Senior research fellow in the group, expert in patent writing, second author of NDSS, Mr. Kind-hearted, Iron Hammer on the Railway, and a skilled player in bumper cars .
 3. Jing Luo
-   ![mentor](../iamges/烧烤.png)
+   ![mentor](../images/烧烤.png)
    ------
    Senior research fellow in the group, mentored by Fei Hongxiao, scored a buzzer-beater victory in the final moments of graduation, cheered on by the entire FSE arena, Mr. Garlic-Free.
 4. Rongkai Liu
-   ![mentor](../iamges/lrk.png)
+   ![mentor](../images/lrk.png)
    ------
    Senior research fellow in the group, mentored by Hu Chao, expert in paper writing, deep learning reproduction, and experimental research. Due to the outstanding results, he hesitates to write articles. Warm-hearted, he assists his junior sisters in the group with relationship issues, proving that helping others is helping oneself.
 

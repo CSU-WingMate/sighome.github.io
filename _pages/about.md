@@ -14,7 +14,7 @@ Below, we will provide a detailed introduction to the basic situation within the
 
 mentor
 ======
-![mentor](images/mentor.png)
+![mentor](images\mentor.png)
 ------
 Tsinghua Ph.D., former Alibaba DAMO Academy expert, specially-appointed associate professor at Central South University, with over 20 first-authored and corresponding-authored papers published in top-tier conferences (A and B conferences). Known as "Railway Durant," whose car was unfortunately crashed by his beloved disciple. For more detailed information, please visit the personal homepage.
 

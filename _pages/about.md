@@ -6,8 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to the SIG Laboratory of the School of Electronic Information Engineering at Central South University！
+SIG upholds a rigorous scientific research attitude and a noble humanistic spirit. 
+Our labmates not only achieve abundant research outcomes and worry-free graduation, but also boast an extremely high rate of finding romantic partners, balancing academic pursuit and love life perfectly.
+With one hand holding hands with Tsinghua University, SIG enjoys the opportunity to attend group meetings directly taught by professors from Tsinghua. With the other hand holding hands with Alibaba, we have access to multiple collaborative projects and rare opportunities for summer internships and full-time positions.
+Below, we will provide a detailed introduction to the basic situation within the group, including **team members**, **research directions**, and **mentor  Handbook**.
 
 A data-driven personal website
 ======
